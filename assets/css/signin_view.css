@@ -1,0 +1,37 @@
+*{
+	padding: 0px;
+	margin: 0px;
+/*	border: 1px dashed red;
+*/}
+
+#header{
+	height: 100px;
+}
+#signInTitle{
+	text-align: center;
+	text-decoration: underline;
+}
+input{
+	margin: 0 auto;
+	display: block;
+}
+label{
+	display: block;
+}
+
+#formBtn{
+	margin-top: 5px;
+	width: 75px;
+	height: 25px;
+	border-radius: 5px;
+}
+
+
+.background{
+	height: 1200px;
+	background-image: url('/assets/images/greenhouse2.jpg');
+}
+
+#formBG{
+	text-align: center;
+}
